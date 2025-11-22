@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ssk007-b.github.io/DomainDiaries",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
