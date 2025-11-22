@@ -9,7 +9,7 @@ export default function AppRoutes({ mode, toggleMode }) {
   return (
     <Routes>
       <Route element={<MainLayout mode={mode} toggleMode={toggleMode} />}>
-        <Route path="/" element={<Home />} />
+        <Route path="DomainDiaries/" element={<Home />} />
         <Route path="/article/:id" element={<ArticleDetails />} />
         {/* <Route path="/about" element={<About />} /> */}
       </Route>
