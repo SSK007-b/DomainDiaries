@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "title": "The Art of Blogging: Share Ideas, Build Identity",
+    "subtitle": "Blogging helps you express ideas, connect with others, and build your digital identity.",
+    "author": {
+      "name": "Rtr Swanand Kulkarni",
+      "profileImage": "https://placehold.co/200x200",
+      "role": "Writer | Creator"
+    },
+    "createdAt": "2025-11-22",
+    "readTime": "4 min",
+    "tags": ["blogging", "writing", "content-creation", "branding"],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "A blog is a space where your ideas, knowledge, and experiences come alive through writing. It allows you to communicate with readers as if you’re having a friendly conversation — one that informs, inspires, or offers a fresh perspective."
+      },
+      {
+        "type": "paragraph",
+        "text": "A well-written blog doesn’t need to be complex. It just needs to be clear, meaningful, and engaging. Here’s how you can create one:"
+      },
+      {
+        "type": "heading",
+        "text": "What to Include in a Good Blog"
+      },
+      {
+        "type": "list",
+        "items": [
+          "A clear topic — Focus on one idea that you want to share.",
+          "An engaging introduction — Explain why the topic is interesting or relevant.",
+          "Simple and structured content — Use small paragraphs, examples, or bullets to make it easy to read.",
+          "Your perspective or experience — What does this mean to you? What did you learn?",
+          "A thoughtful conclusion — Leave readers with a key takeaway or reflection."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Your voice matters. Adding personal experiences or opinions makes your blog unique and memorable."
+      },
+      {
+        "type": "heading",
+        "text": "What to Avoid While Writing"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Going off-topic or adding unrelated information",
+          "Copying content from the internet instead of writing in your own words",
+          "Overloading with technical jargon without explanation",
+          "Writing too long without purpose or structure"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Why Blogging Matters"
+      },
+      {
+        "type": "paragraph",
+        "text": "Blogging is a powerful tool for personal branding. Every post you write becomes proof of:"
+      },
+      {
+        "type": "list",
+        "items": ["What you know", "How you think", "What you care about"]
+      },
+      {
+        "type": "paragraph",
+        "text": "It helps you build credibility, showcase your skills, and connect with people beyond your usual circle. Over time, your blogs become a collection of your growth — both personal and professional."
+      },
+      {
+        "type": "paragraph",
+        "text": "Start small. Pick a topic you love. Write in your voice. Share your message with confidence. Your ideas might just be the reason someone learns something new today."
+      }
+    ]
+  }
+]
