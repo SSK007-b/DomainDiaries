@@ -8,10 +8,10 @@ import { Link, useLocation } from "react-router-dom";
 import ThemeToggle from "./ThemeToggle";
 
 const navItems = [
-  { label: "Home", path: "/" },
-  { label: "Articles", path: "/articles" },
-  { label: "Categories", path: "/categories" },
-  { label: "About", path: "/about" },
+  { label: "Home", path: "/DomainDiaries" },
+//   { label: "Articles", path: "/articles" },
+//   { label: "Categories", path: "/categories" },
+//   { label: "About", path: "/about" },
 ];
 
 export default function Header({ mode, toggleMode }) {
