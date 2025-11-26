@@ -1,7 +1,5 @@
-import { useState } from "react";
 import {
-  AppBar, Toolbar, Typography, IconButton, Button, Drawer,
-  List, ListItemButton, ListItemText, Box
+  AppBar, Toolbar, Typography, IconButton, Button, Box
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import { Link, useLocation } from "react-router-dom";
@@ -15,7 +13,6 @@ const navItems = [
 ];
 
 export default function Header({ mode, toggleMode }) {
-  const [drawerOpen, setDrawerOpen] = useState(false);
   const { pathname } = useLocation();
 
   return (
@@ -64,28 +61,6 @@ export default function Header({ mode, toggleMode }) {
           </Box>
         </Toolbar>
       </AppBar>
-
-      {/* Mobile Drawer */}
-      <Drawer
-        anchor="right"
-        open={drawerOpen}
-        onClose={() => setDrawerOpen(false)}
-      >
-        <Box sx={{ width: 220, pt: 2 }}>
-          {navItems.map((item) => (
-            <List key={item.path}>
-              <ListItemButton
-                component={Link}
-                to={item.path}
-                selected={pathname === item.path}
-                onClick={() => setDrawerOpen(false)}
-              >
-                <ListItemText primary={item.label} />
-              </ListItemButton>
-            </List>
-          ))}
-        </Box>
-      </Drawer>
     </>
   );
 }

@@ -14,10 +14,13 @@ import articles from "../data/articles.json";
 export default function Home() {
   const navigate = useNavigate();
 
+  const sortedArticles = [...articles].sort(
+    (a, b) => new Date(b.createdAt) - new Date(a.createdAt)
+  );
+
   return (
     <Box sx={{ pt: 2, maxWidth: "900px", mx: "auto" }}>
-      
-      {/* ===== SECTION HEADING ===== */}
+
       <Typography
         variant="h4"
         fontWeight={700}
@@ -40,7 +43,7 @@ export default function Home() {
 
       {/* ===== ARTICLE LIST ===== */}
       <Stack spacing={3}>
-        {articles.map((post) => (
+        {sortedArticles.map((post) => (
           <Card
             key={post.id}
             elevation={2}
@@ -89,7 +92,7 @@ export default function Home() {
                 <Box>
                   <Typography fontWeight={600}>{post.author.name}</Typography>
                   <Typography variant="caption" color="text.secondary">
-                    {post.createdAt} • {post.readTime}
+                    {post.createdAt}
                   </Typography>
                 </Box>
               </Stack>
@@ -110,13 +113,14 @@ export default function Home() {
           </Card>
         ))}
       </Stack>
+
       <Box
         sx={{
           bgcolor: "primary.main",
           color: "white",
           px: 4,
           py: 2.2,
-          mt:5,
+          mt: 5,
           borderRadius: 3,
           display: "flex",
           justifyContent: "center",
@@ -125,11 +129,10 @@ export default function Home() {
           textAlign: "center",
         }}
       >
-        <Typography>📅 Next Publish: Nov 25</Typography>
-        <Typography>📝 Entry Size: 200–400 words</Typography>
+        <Typography>📅 Next Publish: Dec 1</Typography>
+        <Typography>📝 Entry Size: 200 to 400 words</Typography>
         <Typography>🔥 Writers: {articles.length}</Typography>
       </Box>
-
     </Box>
   );
 }

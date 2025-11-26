@@ -72,5 +72,97 @@
         "text": "Start small. Pick a topic you love. Write in your voice. Share your message with confidence. Your ideas might just be the reason someone learns something new today."
       }
     ]
+  },
+  {
+    "id": "2",
+    "title": "Why ITSM Will Never Go Out of Date",
+    "subtitle": "Even in the age of AI and automation, IT Service Management remains irreplaceable because it connects technology with people.",
+    "author": {
+      "name": "Rtr Sanjana Pawar",
+      "profileImage": "https://placehold.co/200x200",
+      "role": "Writer | Creator"
+    },
+    "createdAt": "2025-11-26",
+    "readTime": "4 min",
+    "tags": [
+      "ITSM",
+      "technology",
+      "service-management",
+      "AI",
+      "customer-experience"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "In today’s world, we talk a lot about automation, AI models, and how technology is taking over repetitive work. And yes, AI can create, suggest, and even solve some basic issues on its own. But when it comes to IT Service Management (ITSM), one thing remains true: it can never completely go out of date."
+      },
+      {
+        "type": "heading",
+        "text": "Why?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Because ITSM is not just about solving technical issues. It’s about understanding people, their problems, and the impact those problems have on their work."
+      },
+      {
+        "type": "paragraph",
+        "text": "AI models are great at generating code, building workflows, and even predicting failures. But when a user is stuck during a critical moment, they don’t just want a solution — they want assurance, clarity, and real communication."
+      },
+      {
+        "type": "paragraph",
+        "text": "A chatbot can tell you what to click. A human can tell you “I understand what you’re facing. Let me help you fix this.” That emotional connection is a huge part of customer satisfaction, and customer satisfaction is the backbone of every product or service delivered in the IT world."
+      },
+      {
+        "type": "heading",
+        "text": "What AI Still Can’t Replace"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Listening to user concerns",
+          "Understanding the context behind an incident",
+          "Communicating in a way that builds trust",
+          "Making decisions that include empathy",
+          "Providing reassurance during downtime or critical failures"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "These are not tasks AI can fully replace. They require human intelligence, not artificial intelligence."
+      },
+      {
+        "type": "heading",
+        "text": "ITSM is the Bridge Between Technology and People"
+      },
+      {
+        "type": "paragraph",
+        "text": "Every incident, every request, every change goes through a story — a story that involves impact, urgency, fear, frustration, or relief. And humans are naturally better at dealing with all these emotions."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Restore productivity",
+          "Calm a stressful situation",
+          "Ensure users feel supported",
+          "Maintain the reliability of the organization’s services"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "This makes ITSM a timeless profession."
+      },
+      {
+        "type": "paragraph",
+        "text": "As AI evolves, it will take over more routine tasks. But the need for real conversations, clear communication, and empathetic support will only increase. Technology might run the systems, but humans keep the experience alive."
+      },
+      {
+        "type": "paragraph",
+        "text": "And at the end of the day, every organization wants one thing: Happy users."
+      },
+      {
+        "type": "paragraph",
+        "text": "That’s why ITSM will never go out of date."
+      }
+    ]
   }
 ]
