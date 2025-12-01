@@ -102,7 +102,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Because ITSM is not just about solving technical issues. It’s about understanding people, their problems, and the impact those problems have on their work."
+        "text": "Because ITSM is not just about solving technical issues. It's about understanding people, their problems, and the impact those problems have on their work."
       },
       {
         "type": "paragraph",
@@ -114,7 +114,7 @@
       },
       {
         "type": "heading",
-        "text": "What AI Still Can’t Replace"
+        "text": "What AI Still Can't Replace"
       },
       {
         "type": "list",
@@ -161,7 +161,46 @@
       },
       {
         "type": "paragraph",
-        "text": "That’s why ITSM will never go out of date."
+        "text": "That's why ITSM will never go out of date."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Formula 1: More than just cars driving in circles!",
+    "subtitle": "Once you dive into Formula 1, you realize it's not just racing — it's speed, strategy, drama, and pure obsession.",
+    "author": {
+      "name": "Rtr Aditya Jachak",
+      "profileImage": "https://placehold.co/200x200",
+      "role": "Writer | Creator"
+    },
+    "createdAt": "2025-12-01",
+    "readTime": "4 min",
+    "tags": ["formula-1", "sports", "racing", "motorsport", "F1"],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Whenever I mention that I'm into F1 and ask if the other person has ever given it a shot, the number one response I get is “Isn't it just cars going around in circles?”, which is something I'm sure most if not all of the F1 heads would relate with (and they aren't even circles tbh). But the moment you dive in, you begin to realize F1 is so much more, even beyond the thrill, drama and adrenaline-pumping competition..... it's chess!"
+      },
+      {
+        "type": "paragraph",
+        "text": "To start with the obvious, F1 cars are the fastest racing machines on the planet hitting 300+ km/h while taking corners which would snap your neck if you don't train it the way F1 racers do. Every race is a spectacle with the roaring engines, vibrant tracks around the world and breathtaking overtakes which will keep you on the edge of your seat!"
+      },
+      {
+        "type": "paragraph",
+        "text": "But the real catch isn't just the speed — it's the lore. Every race weekend feels like a new episode in this about 9-month long series. There are fierce rivalries, unexpected plot twists, strategic gambles, dramatic controversies, heartbreaking failures and unbelievable comebacks! So even if you just want drama, this sport delivers it better than most reality shows (and it's actual reality)."
+      },
+      {
+        "type": "paragraph",
+        "text": "And then there's the strategy. Watching an F1 race is like watching a chess match at 300 km/h. Teams make lightning-fast decisions about tyres, pit stops, fine tuning the car for every different track and even weather conditions. Even if you don’t understand everything at first, you’ll quickly find yourself predicting moves and yelling at the screen like a seasoned fan — and trust me, nothing will give you more pride than predicting a move beforehand or the commentators saying exactly what you thought a moment ago!"
+      },
+      {
+        "type": "paragraph",
+        "text": "Best of all, the F1 community makes getting into the sport easy. You can start with race highlights or directly catch Sunday's main race called the Grand Prix, or if you're here for the drama, catch Netflix’s Drive to Survive, an F1-based documentary series. Before you know it, you’ll have a favourite team, a favourite driver and the irresistible urge to defend them no matter how humiliating of a performance they deliver..."
+      },
+      {
+        "type": "paragraph",
+        "text": "So, give F1 a chance! One race! You might just find your next obsession you didn’t know you needed."
       }
     ]
   }
