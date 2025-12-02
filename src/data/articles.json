@@ -203,5 +203,44 @@
         "text": "So, give F1 a chance! One race! You might just find your next obsession you didn’t know you needed."
       }
     ]
+  },
+  {
+    "id": "4",
+    "title": "WTF: When a Podcast Became a Classroom",
+    "subtitle": "A podcast that turned into a source of ideas, inspiration, and real learning.",
+    "author": {
+      "name": "Rtr Ziya Pathan",
+      "profileImage": "https://placehold.co/200x200",
+      "role": "Writer | Creator"
+    },
+    "createdAt": "2025-12-02",
+    "readTime": "4 min",
+    "tags": ["podcast", "learning", "inspiration"],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "My journey into the world of Indian podcasts truly began with one show — WTF with Nikhil Kamath. I still remember the day I stumbled upon it. I wasn’t searching for a finance lesson or a business masterclass. I just wanted something meaningful to listen to. What I found instead was a podcast that has now become my go-to space for ideas, inspiration, and real conversations."
+      },
+      {
+        "type": "paragraph",
+        "text": "The first thing that hooked me was the guest list. Not just famous people — but people who genuinely matter. Founders, thinkers, artists… and recently, one of the biggest names in the world: Elon Musk. Getting someone like Musk isn’t just impressive; it reflects the trust and reputation Nikhil Kamath has built with this platform."
+      },
+      {
+        "type": "paragraph",
+        "text": "But what really makes WTF special is Nikhil’s style of questioning. He doesn’t rush. He doesn’t interrupt. He doesn’t ask typical interview questions. Instead, he builds conversations. His questions have structure yet feel natural — the kind that makes the guest open up without even realizing it."
+      },
+      {
+        "type": "paragraph",
+        "text": "When I watched the recent Musk episode, it didn’t feel like a heavy tech talk. It felt like two people thinking aloud. Musk spoke about how AI might make basic work optional in the future and how AI-created movies, podcasts and games may soon become normal. And somewhere in between, he shared a simple message: focus on creating value, not just chasing money."
+      },
+      {
+        "type": "paragraph",
+        "text": "Every episode leaves me reflecting on something new. I feel like I’m learning from the experiences of some of the smartest people, all while just enjoying a casual conversation."
+      },
+      {
+        "type": "paragraph",
+        "text": "And honestly, I can’t wait for the next episode. Excited for the upcoming guest!"
+      }
+    ]
   }
 ]
